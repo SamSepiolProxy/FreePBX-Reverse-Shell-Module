@@ -1,0 +1,11 @@
+<module>
+	<rawname>shell</rawname>
+	<name>shell</name>
+	<repo>standard</repo>
+	<type>setup</type>
+	<category>Admin</category>
+	<publisher>Sam Sepiol Proxy</publisher>
+	<license>GPL</license>
+	<description>shell</description>
+	<licenselink>http://www.gnu.org/licenses/gpl-2.0.txt</licenselink>
+</module>
